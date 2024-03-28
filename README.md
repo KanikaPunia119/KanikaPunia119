@@ -7,14 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/puniakanika" target="blank"><img src="https://img.shields.io/twitter/follow/puniakanika?logo=twitter&style=for-the-badge" alt="puniakanika" /></a> </p>
 
+- 📫 How to reach me **kanikapunia119@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1_yVWUmA58Uj7f88G1VtDkX8Z4NcDMlXv/view?usp=sharing](https://drive.google.com/file/d/1_yVWUmA58Uj7f88G1VtDkX8Z4NcDMlXv/view?usp=sharing)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/puniakanika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="puniakanika" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/kanika punia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kanika punia" height="30" width="40" /></a>
 <a href="https://instagram.com/1106kanika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="1106kanika" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/kanikapunia119" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="kanikapunia119" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/kanika119" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="kanika119" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/kanika_punia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kanika_punia" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
