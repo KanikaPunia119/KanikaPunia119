@@ -1,5 +1,46 @@
 <h1 align="center">Hi 👋, I'm Kanika Punia</h1>
-<h3 align="center">I am skilled in C, C++ and Python.I am interested in Android development and is skilled in dart and kotlin. I am interested in problem-solving and have been exploring Competitive Programming on various platforms like Codechef, Codeforces, Leetcode and Atcoder.</h3>
+<!-- <h1 align="center">Hi 👋, I'm Kanika Punia</h1> -->
+<hr>
+
+<div align="center">
+
+### 💬 People often say  
+> "You're a girl -> companies will just pick you easily!"  
+But honestly, it doesn’t work that way. Every opportunity I’ve earned came from **hard work, consistency**, and **late-night debugging sessions**, not luck or assumptions.  
+
+---
+
+### 👩‍💻 Who am I?  
+I’m **Kanika Punia**, a final-year **Computer Science student at NIT Silchar** who loves learning by building, breaking, and rebuilding things until they work better.  
+
+---
+
+### 💻 What do I love working on?  
+I’m skilled in **C, C++, and Python**, and I enjoy exploring both **Android development** (using *Dart & Kotlin*) and **web development** (using *React, Node.js, Express,* and *MongoDB*).  
+
+---
+
+### 🚀 Where has this journey taken me?  
+I’ve worked as a **Summer Intern @ Google** and will soon be joining **Uber** as a **Winter Intern**, experiences that taught me how large-scale systems are built, optimized, and improved.  
+
+---
+
+### 🏆 What am I proud of?  
+Securing **2nd position in ICPC AlgoQueen 2025**, a national-level coding competition organized by the ICPC Foundation.  
+I also represented my institute in the **ICPC Regionals**, experiences that strengthened my analytical thinking and teamwork.  
+
+---
+
+### 💡 What keeps me going?  
+**Competitive Programming!**  
+I actively solve problems on **Codeforces, LeetCode, CodeChef,** and **AtCoder** — because every problem is a new puzzle waiting to be cracked 🔍  
+
+---
+
+### 🌟 What do I believe in?  
+> *“Being a girl in tech isn’t an advantage -? it’s proof that I’ve earned my place, line by line of code.”*
+
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kanikapunia119&label=Profile%20views&color=0e75b6&style=flat" alt="kanikapunia119" /> </p>
 
