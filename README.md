@@ -8,7 +8,7 @@
 [![GitHub Followers](https://img.shields.io/github/followers/KanikaPunia119?label=Followers&style=for-the-badge&color=blue)](https://github.com/KanikaPunia119?tab=followers)
 [![GitHub Stars](https://img.shields.io/github/stars/KanikaPunia119?label=Stars&style=for-the-badge&color=yellow)](https://github.com/KanikaPunia119?tab=repositories)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FF69B4&center=true&vCenter=true&multiline=false&width=600&height=100&lines=Final+Year+CSE+%40+NIT+Silchar;Google+Summer+Intern+2024;Uber+Winter+Intern+2025;ICPC+AlgoQueen+2nd+Position+2025;Competitive+Programming+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FF69B4&center=true&vCenter=true&multiline=false&width=600&height=100&lines=Final+Year+CSE+%40+NIT+Silchar;Google+Summer+Intern+2025;Upcoming+Uber+Winter+Intern+2026;ICPC+AlgoQueen+2nd+Position+2025;Competitive+Programming+Enthusiast" alt="Typing SVG" />
 
 </div>
 
@@ -23,7 +23,7 @@ const kanika = {
     role: "Computer Science Student",
     institute: "NIT Silchar",
     year: "Final Year",
-    internships: ["Google (Summer 2024)", "Uber (Winter 2025)"],
+    internships: ["Google (Summer 2025)", "Upcoming Uber (Winter 2026)"],
     achievements: [
         "🥈 2nd Position - ICPC AlgoQueen 2025",
         "🏆 ICPC Regionals Participant",
@@ -146,7 +146,7 @@ const kanika = {
 
 ### 📊 LeetCode Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LC_USERNAME?theme=dark&font=Ubuntu&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Kanika_Punia?theme=dark&font=Ubuntu&ext=heatmap)
 
 </div>
 
