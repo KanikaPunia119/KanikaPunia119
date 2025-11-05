@@ -99,13 +99,49 @@ const kanika = {
 
 ---
 
+## 🎯 Lowlighter Metrics - Advanced GitHub Analytics
+
+<div align="center">
+
+### 📊 Comprehensive Overview
+
+![Metrics Overview](./metrics-overview.svg)
+
+### 📅 3D Isometric Commit Calendar
+
+![Isometric Calendar](./metrics-isocalendar.svg)
+
+### 🈷️ Most Used Languages (Detailed Analysis)
+
+![Languages](./metrics-languages.svg)
+
+### 💡 Coding Habits & Activity Patterns
+
+![Coding Habits](./metrics-habits.svg)
+
+### 🏆 GitHub Achievements
+
+![Achievements](./metrics-achievements.svg)
+
+### ⭐ Notable Contributions
+
+![Notable Contributions](./metrics-notable.svg)
+
+### 📰 Recent Activity Timeline
+
+![Recent Activity](./metrics-activity.svg)
+
+</div>
+
+---
+
 ## 🏆 Competitive Programming Profiles
 
 <div align="center">
 
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/kanika119)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Kanika_Punia/)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/p3002kanika)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/YOUR_CC_USERNAME)
 [![AtCoder](https://img.shields.io/badge/AtCoder-000000?style=for-the-badge&logo=atcoder&logoColor=white)](https://atcoder.jp/users/kanikapunia119)
 
 ### 📊 LeetCode Stats
