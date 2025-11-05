@@ -91,49 +91,9 @@ const kanika = {
 
 ![Kanika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KanikaPunia119&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
 
-### 🔥 Contribution Streak
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KanikaPunia119&theme=radical&hide_border=true)
-
 ### 📊 Contribution Graph
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KanikaPunia119&theme=github-compact&hide_border=true&custom_title=Kanika's%20Contribution%20Graph)
-
-</div>
-
----
-
-## 🎯 Lowlighter Metrics - Advanced GitHub Analytics
-
-<div align="center">
-
-### 📊 Comprehensive Overview
-
-![Metrics Overview](./metrics-overview.svg)
-
-### 📅 3D Isometric Commit Calendar
-
-![Isometric Calendar](./metrics-isocalendar.svg)
-
-### 🈷️ Most Used Languages (Detailed Analysis)
-
-![Languages](./metrics-languages.svg)
-
-### 💡 Coding Habits & Activity Patterns
-
-![Coding Habits](./metrics-habits.svg)
-
-### 🏆 GitHub Achievements
-
-![Achievements](./metrics-achievements.svg)
-
-### ⭐ Notable Contributions
-
-![Notable Contributions](./metrics-notable.svg)
-
-### 📰 Recent Activity Timeline
-
-![Recent Activity](./metrics-activity.svg)
 
 </div>
 
@@ -143,10 +103,10 @@ const kanika = {
 
 <div align="center">
 
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/YOUR_CF_USERNAME)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/YOUR_LC_USERNAME)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/YOUR_CC_USERNAME)
-[![AtCoder](https://img.shields.io/badge/AtCoder-000000?style=for-the-badge&logo=atcoder&logoColor=white)](https://atcoder.jp/users/YOUR_AC_USERNAME)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/kanika119)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Kanika_Punia/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/p3002kanika)
+[![AtCoder](https://img.shields.io/badge/AtCoder-000000?style=for-the-badge&logo=atcoder&logoColor=white)](https://atcoder.jp/users/kanikapunia119)
 
 ### 📊 LeetCode Stats
 
